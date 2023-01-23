@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Fibo","l":"Fibo()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Fibo","l":"FiboRecursion(long)"},{"p":"<Unnamed>","c":"Fibo","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

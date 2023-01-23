@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 //TODO: Implement JavaDoc-style formatting.
 
-class Fibo {
+public class Fibo {
     public static void main(String[] args) {
         Fibo newFibo = new Fibo();
         System.out.print("\nGo ahead and enter the numerical position you want the Fibonacci number for: ");
