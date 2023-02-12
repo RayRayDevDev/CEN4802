@@ -12,14 +12,19 @@ public class FiboTests {
     }
 
     @Test
-    public void testFibbonacciWithOneAsInput() {// write different test cases and test for edge cases, normal cases
-                                                // something like below.
+    public void testFibbonacciWithOneAsInput() {
+
         Assert.assertEquals(fibo.FiboRecursion(1), 1);
     }
 
     @Test
     public void testFibbonacciWith25AsInput() {
         Assert.assertEquals(fibo.FiboRecursion(25), 75025);
+    }
+
+    @Test
+    public void testFibbonacciWith2AsInputAndCauseFailure() {
+        Assert.assertEquals(fibo.FiboRecursion(2), 75025);
     }
 
 }
