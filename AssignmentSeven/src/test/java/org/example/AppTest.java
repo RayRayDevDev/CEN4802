@@ -9,52 +9,53 @@ class RadioStationTest {
     @Test
     void testValidateCallSignWithDigits() {
         RadioStation radioStation = new RadioStation();
-        assertThrows(RadioStationException.class, () -> {
-            radioStation.validateCallSign("WABC123");
-        });
+        try {
+            radioStation.validateCallSign("KDKA2");
+            fail("Expected RadioStationException to be thrown");
+        } catch (RadioStationException e) {
+            assertEquals("\nEXCEPTION in RadioStation: Station call signs must only consist of letters. Unable to create radio station object!", e.getMessage());
+        }
     }
 
     @Test
-    void testValidateCallSignWithMoreThan4Letters() {
+    void testValidateCallSignWithInvalidLength() {
         RadioStation radioStation = new RadioStation();
-        assertThrows(RadioStationException.class, () -> {
-            radioStation.validateCallSign("WABCDE");
-        });
+        try {
+            radioStation.validateCallSign("KD");
+            fail("Expected RadioStationException to be thrown");
+        } catch (RadioStationException e) {
+            assertEquals("\nEXCEPTION in RadioStation: Station call signs must contain exactly four (4) letters. Detected more or less than four (4) letters. Unable to create radio station object!", e.getMessage());
+        }
     }
 
     @Test
-    void testValidateCallSignWithLessThan4Letters() {
+    void testValidateCallSignWithValidInput() {
         RadioStation radioStation = new RadioStation();
-        assertThrows(RadioStationException.class, () -> {
-            radioStation.validateCallSign("WAB");
-        });
+        try {
+            radioStation.validateCallSign("KDKA");
+        } catch (RadioStationException e) {
+            fail("Unexpected RadioStationException was thrown: " + e.getMessage());
+        }
     }
 
     @Test
-    void testValidateCallSignValid() throws RadioStationException {
+    void testValidateStationFrequencyWithInvalidInput() {
         RadioStation radioStation = new RadioStation();
-        radioStation.validateCallSign("WABC");
+        try {
+            radioStation.validateStationFrequency(200.0);
+            fail("Expected RadioStationException to be thrown");
+        } catch (RadioStationException e) {
+            assertEquals("\nEXCEPTION in RadioStation: The station frequency must be within 88.0 and 108.0, inclusive. The inputted frequency is not within this range. Unable to create radio station object!", e.getMessage());
+        }
     }
 
     @Test
-    void testValidateStationFrequencyBelow88() {
+    void testValidateStationFrequencyWithValidInput() {
         RadioStation radioStation = new RadioStation();
-        assertThrows(RadioStationException.class, () -> {
-            radioStation.validateStationFrequency(87.9);
-        });
-    }
-
-    @Test
-    void testValidateStationFrequencyAbove108() {
-        RadioStation radioStation = new RadioStation();
-        assertThrows(RadioStationException.class, () -> {
-            radioStation.validateStationFrequency(108.1);
-        });
-    }
-
-    @Test
-    void testValidateStationFrequencyValid() throws RadioStationException {
-        RadioStation radioStation = new RadioStation();
-        radioStation.validateStationFrequency(90.5);
+        try {
+            radioStation.validateStationFrequency(95.0);
+        } catch (RadioStationException e) {
+            fail("Unexpected RadioStationException was thrown: " + e.getMessage());
+        }
     }
 }

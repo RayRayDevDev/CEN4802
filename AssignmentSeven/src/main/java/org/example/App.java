@@ -1,8 +1,9 @@
 package org.example;
 
-import static java.lang.System.out;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+import static java.lang.System.out;
 
 //Code by Cole Stanley (RäDev)
 //Created with JDK 18.0.1.1
@@ -30,14 +31,16 @@ class RadioStation {
         radioStationFrequency = rSF;
     }
 
-    public void validateCallSign (String radioCallsign) throws RadioStationException {  //Validate call sign method.
+    public void validateCallSign (String radioCallSign) throws RadioStationException {  //Validate call sign method.
         for(int j = 0; j < radioCallSign.length(); j++){
             if(Character.isDigit(radioCallSign.charAt(j))) {  //Count each character in the string entered. Return true if a digit is encountered.
 
                 throw new RadioStationException("\nEXCEPTION in RadioStation: Station call signs must only consist of letters. Unable to create radio station object!");  //New exception object.
+            } else if (radioCallSign == null) {
+                throw new RadioStationException("\nEXCEPTION in RadioStation: The Call Sign must have a value and cannot be null!");
             }
         }
-        int radioCallSignLength = radioCallsign.length();  //Variable for the call sign's length since Java hates me and wouldn't work with an "if" statement.
+        int radioCallSignLength = radioCallSign.length();  //Variable for the call sign's length since Java hates me and wouldn't work with an "if" statement.
 
         if(radioCallSignLength < 4 || radioCallSignLength > 4) {  //If the string passes previous step, check the length of the entered string. If </> 4, throw exception.
 
@@ -47,13 +50,12 @@ class RadioStation {
 
     }
 
-    public void validateStationFrequency (double radioStationFrequency) throws RadioStationException {  //Validate radio station's frequency method.
-        if(radioStationFrequency < 88.0 || radioStationFrequency > 108.0) {  //Conditional for assignment parameters. 
-
+    public void validateStationFrequency(double radioStationFrequency) throws RadioStationException {
+        if (radioStationFrequency < 88.0 || radioStationFrequency > 108.0) {
             throw new RadioStationException("\nEXCEPTION in RadioStation: The station frequency must be within 88.0 and 108.0, inclusive. The inputted frequency is not within this range. Unable to create radio station object!");
         }
-
     }
+
 
     public String toString() {
         String radioStationInfo = "\nRadio Station's Call Sign: " + radioCallSign + "\nRadio Station's Frequency: " + radioStationFrequency;
