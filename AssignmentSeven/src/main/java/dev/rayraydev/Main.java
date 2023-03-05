@@ -6,7 +6,7 @@ import static java.lang.System.out;
 
 public class Main {
     public static void main(String[] args) {
-        RadioStation[] stationArray = new RadioStation[6];
+        RadioStation[] stationArray = new RadioStation[5];
         Scanner userInput = new Scanner(System.in);
         int i = 0;
         int k = 0;
