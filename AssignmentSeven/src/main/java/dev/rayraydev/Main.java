@@ -13,7 +13,7 @@ public class Main {
         do {
             try {
                 RadioStation newRadioStation = new RadioStation();
-                out.print("\nWelcome! Please enter the call sign of the radio station you'd like to listen to. Please enter only letters and ensure that the callsign is no more than four (4) letters in length:  ");
+                out.print("\nWelcome! Please enter the call sign of the radio station you'd like to listen to. Please enter only letters and ensure that the call sign is no more than four (4) letters in length:  ");
                 newRadioStation.radioCallSign = userInput.next();
                 newRadioStation.validateCallSign(newRadioStation.radioCallSign);
                 out.print("\nNext, please enter the carrier frequency of the desired radio station. Please note that the frequency cannot be below 88 or above 108: ");
