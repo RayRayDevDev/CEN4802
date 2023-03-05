@@ -1,4 +1,4 @@
-package org.example;
+package dev.rayraydev;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

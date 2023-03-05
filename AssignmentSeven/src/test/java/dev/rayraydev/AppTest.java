@@ -1,4 +1,4 @@
-package org.example;
+package dev.rayraydev;
 
 import org.junit.jupiter.api.Test;
 
