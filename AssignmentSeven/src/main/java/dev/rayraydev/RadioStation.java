@@ -36,13 +36,11 @@ class RadioStation {
             if(Character.isDigit(radioCallSign.charAt(j))) {  //Count each character in the string entered. Return true if a digit is encountered.
 
                 throw new RadioStationException("\nEXCEPTION in RadioStation: Station call signs must only consist of letters. Unable to create radio station object!");  //New exception object.
-            } else if (radioCallSign == null) {
-                throw new RadioStationException("\nEXCEPTION in RadioStation: The Call Sign must have a value and cannot be null!");
             }
         }
         int radioCallSignLength = radioCallSign.length();  //Variable for the call sign's length since Java hates me and wouldn't work with an "if" statement.
 
-        if(radioCallSignLength < 4 || radioCallSignLength > 4) {  //If the string passes previous step, check the length of the entered string. If </> 4, throw exception.
+        if(radioCallSignLength != 4) {  //If the string passes previous step, check the length of the entered string. If </> 4, throw exception.
 
             throw new RadioStationException("\nEXCEPTION in RadioStation: Station call signs must contain exactly four (4) letters. Detected more or less than four (4) letters. Unable to create radio station object!");
         }
