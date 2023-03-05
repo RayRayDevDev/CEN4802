@@ -57,4 +57,24 @@ class RadioStationTest {
             fail("Unexpected RadioStationException was thrown: " + e.getMessage());
         }
     }
+
+    @Test
+    void testStationArray() throws RadioStationException {
+        RadioStation[] stationArray = new RadioStation[6];
+        stationArray[0] = new RadioStation("WQAM", 102.7);
+        stationArray[1] = new RadioStation("WIOD", 610.0);
+        stationArray[2] = new RadioStation("WAXY", 790.0);
+        stationArray[3] = new RadioStation("WSVN", 101.5);
+        stationArray[4] = new RadioStation("WLRN", 91.3);
+        stationArray[5] = new RadioStation("WINZ", 940.0);
+        assertEquals("Radio Station's Call Sign: WQAM\nRadio Station's Frequency: 102.7", stationArray[0].toString().trim());
+        assertEquals("Radio Station's Call Sign: WIOD\nRadio Station's Frequency: 610.0", stationArray[1].toString().trim());
+        assertEquals("Radio Station's Call Sign: WAXY\nRadio Station's Frequency: 790.0", stationArray[2].toString().trim());
+        assertEquals("Radio Station's Call Sign: WSVN\nRadio Station's Frequency: 101.5", stationArray[3].toString().trim());
+        assertEquals("Radio Station's Call Sign: WLRN\nRadio Station's Frequency: 91.3", stationArray[4].toString().trim());
+        assertEquals("Radio Station's Call Sign: WINZ\nRadio Station's Frequency: 940.0", stationArray[5].toString().trim());
+    }
+
+
+
 }
