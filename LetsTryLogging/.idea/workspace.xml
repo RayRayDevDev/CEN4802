@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0ca125-6b0e-4eb4-a6fc-3527066311f8" name="Changes" comment="Initial Commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
-    </list>
+    <list default="true" id="0e0ca125-6b0e-4eb4-a6fc-3527066311f8" name="Changes" comment="Purged all 3s and 6s from the output." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678675859965</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Purged all 3s and 6s from the output.">
+      <created>1678676844405</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678676844405</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +156,7 @@
     </ignored-roots>
     <MESSAGE value="Amendatory." />
     <MESSAGE value="Initial Commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit." />
+    <MESSAGE value="Purged all 3s and 6s from the output." />
+    <option name="LAST_COMMIT_MESSAGE" value="Purged all 3s and 6s from the output." />
   </component>
 </project>
