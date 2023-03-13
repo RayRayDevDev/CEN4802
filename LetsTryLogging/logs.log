@@ -2,286 +2,10 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2023-03-13T02:29:51.805930400Z</date>
-  <millis>1678674591805</millis>
-  <nanos>930400</nanos>
+  <date>2023-03-13T03:04:09.645545300Z</date>
+  <millis>1678676649645</millis>
+  <nanos>545300</nanos>
   <sequence>0</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 60</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.842928600Z</date>
-  <millis>1678674591842</millis>
-  <nanos>928600</nanos>
-  <sequence>1</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 6</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.843928300Z</date>
-  <millis>1678674591843</millis>
-  <nanos>928300</nanos>
-  <sequence>2</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 33</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.843928300Z</date>
-  <millis>1678674591843</millis>
-  <nanos>928300</nanos>
-  <sequence>3</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 67</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.844929100Z</date>
-  <millis>1678674591844</millis>
-  <nanos>929100</nanos>
-  <sequence>4</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 11</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.844929100Z</date>
-  <millis>1678674591844</millis>
-  <nanos>929100</nanos>
-  <sequence>5</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 32</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.845928700Z</date>
-  <millis>1678674591845</millis>
-  <nanos>928700</nanos>
-  <sequence>6</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 12</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.845928700Z</date>
-  <millis>1678674591845</millis>
-  <nanos>928700</nanos>
-  <sequence>7</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 98</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.845928700Z</date>
-  <millis>1678674591845</millis>
-  <nanos>928700</nanos>
-  <sequence>8</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 15</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.846929Z</date>
-  <millis>1678674591846</millis>
-  <nanos>929000</nanos>
-  <sequence>9</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 96</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.846929Z</date>
-  <millis>1678674591846</millis>
-  <nanos>929000</nanos>
-  <sequence>10</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 95</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.847928300Z</date>
-  <millis>1678674591847</millis>
-  <nanos>928300</nanos>
-  <sequence>11</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 30</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.847928300Z</date>
-  <millis>1678674591847</millis>
-  <nanos>928300</nanos>
-  <sequence>12</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 59</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.847928300Z</date>
-  <millis>1678674591847</millis>
-  <nanos>928300</nanos>
-  <sequence>13</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 1</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.848929300Z</date>
-  <millis>1678674591848</millis>
-  <nanos>929300</nanos>
-  <sequence>14</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 15</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.848929300Z</date>
-  <millis>1678674591848</millis>
-  <nanos>929300</nanos>
-  <sequence>15</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 80</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.849935600Z</date>
-  <millis>1678674591849</millis>
-  <nanos>935600</nanos>
-  <sequence>16</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 47</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.849935600Z</date>
-  <millis>1678674591849</millis>
-  <nanos>935600</nanos>
-  <sequence>17</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 30</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.850951Z</date>
-  <millis>1678674591850</millis>
-  <nanos>951000</nanos>
-  <sequence>18</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 76</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.850951Z</date>
-  <millis>1678674591850</millis>
-  <nanos>951000</nanos>
-  <sequence>19</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 31</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.851928800Z</date>
-  <millis>1678674591851</millis>
-  <nanos>928800</nanos>
-  <sequence>20</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 29</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.851928800Z</date>
-  <millis>1678674591851</millis>
-  <nanos>928800</nanos>
-  <sequence>21</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 87</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.852930200Z</date>
-  <millis>1678674591852</millis>
-  <nanos>930200</nanos>
-  <sequence>22</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 98</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.852930200Z</date>
-  <millis>1678674591852</millis>
-  <nanos>930200</nanos>
-  <sequence>23</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -290,46 +14,70 @@
   <message>Everything is AMAZING! Info Code: 78</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.853930400Z</date>
-  <millis>1678674591853</millis>
-  <nanos>930400</nanos>
-  <sequence>24</sequence>
+  <date>2023-03-13T03:04:09.686656300Z</date>
+  <millis>1678676649686</millis>
+  <nanos>656300</nanos>
+  <sequence>1</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 58</message>
+  <message>Everything is AMAZING! Info Code: 2</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.853930400Z</date>
-  <millis>1678674591853</millis>
-  <nanos>930400</nanos>
-  <sequence>25</sequence>
+  <date>2023-03-13T03:04:09.687958100Z</date>
+  <millis>1678676649687</millis>
+  <nanos>958100</nanos>
+  <sequence>2</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 63</message>
+  <message>Yikes! Error Code: 45</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.854929400Z</date>
-  <millis>1678674591854</millis>
-  <nanos>929400</nanos>
-  <sequence>26</sequence>
+  <date>2023-03-13T03:04:09.688482900Z</date>
+  <millis>1678676649688</millis>
+  <nanos>482900</nanos>
+  <sequence>3</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 22</message>
+  <message>Yikes! Error Code: 20</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.854929400Z</date>
-  <millis>1678674591854</millis>
-  <nanos>929400</nanos>
-  <sequence>27</sequence>
+  <date>2023-03-13T03:04:09.689012100Z</date>
+  <millis>1678676649689</millis>
+  <nanos>12100</nanos>
+  <sequence>4</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 44</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.690544700Z</date>
+  <millis>1678676649690</millis>
+  <nanos>544700</nanos>
+  <sequence>5</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 12</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.693329900Z</date>
+  <millis>1678676649693</millis>
+  <nanos>329900</nanos>
+  <sequence>6</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -338,69 +86,321 @@
   <message>Yikes! Error Code: 10</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.854929400Z</date>
-  <millis>1678674591854</millis>
-  <nanos>929400</nanos>
-  <sequence>28</sequence>
+  <date>2023-03-13T03:04:09.694330400Z</date>
+  <millis>1678676649694</millis>
+  <nanos>330400</nanos>
+  <sequence>7</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 67</message>
+  <message>Everything is AMAZING! Info Code: 79</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.854929400Z</date>
-  <millis>1678674591854</millis>
-  <nanos>929400</nanos>
+  <date>2023-03-13T03:04:09.694330400Z</date>
+  <millis>1678676649694</millis>
+  <nanos>330400</nanos>
+  <sequence>8</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 87</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.695330600Z</date>
+  <millis>1678676649695</millis>
+  <nanos>330600</nanos>
+  <sequence>9</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 80</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.696410700Z</date>
+  <millis>1678676649696</millis>
+  <nanos>410700</nanos>
+  <sequence>10</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 20</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.696916400Z</date>
+  <millis>1678676649696</millis>
+  <nanos>916400</nanos>
+  <sequence>11</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 11</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.697443200Z</date>
+  <millis>1678676649697</millis>
+  <nanos>443200</nanos>
+  <sequence>12</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 91</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.697964600Z</date>
+  <millis>1678676649697</millis>
+  <nanos>964600</nanos>
+  <sequence>13</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 18</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.698485700Z</date>
+  <millis>1678676649698</millis>
+  <nanos>485700</nanos>
+  <sequence>14</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 14</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.699016800Z</date>
+  <millis>1678676649699</millis>
+  <nanos>16800</nanos>
+  <sequence>15</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 50</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.699542300Z</date>
+  <millis>1678676649699</millis>
+  <nanos>542300</nanos>
+  <sequence>16</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 85</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.700065900Z</date>
+  <millis>1678676649700</millis>
+  <nanos>65900</nanos>
+  <sequence>17</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 82</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.700601200Z</date>
+  <millis>1678676649700</millis>
+  <nanos>601200</nanos>
+  <sequence>18</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 20</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.701122500Z</date>
+  <millis>1678676649701</millis>
+  <nanos>122500</nanos>
+  <sequence>19</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 5</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.701645800Z</date>
+  <millis>1678676649701</millis>
+  <nanos>645800</nanos>
+  <sequence>20</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 20</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.702170800Z</date>
+  <millis>1678676649702</millis>
+  <nanos>170800</nanos>
+  <sequence>21</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 7</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.702860200Z</date>
+  <millis>1678676649702</millis>
+  <nanos>860200</nanos>
+  <sequence>22</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 52</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.703735400Z</date>
+  <millis>1678676649703</millis>
+  <nanos>735400</nanos>
+  <sequence>23</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 84</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.703996300Z</date>
+  <millis>1678676649703</millis>
+  <nanos>996300</nanos>
+  <sequence>24</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 49</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.704680300Z</date>
+  <millis>1678676649704</millis>
+  <nanos>680300</nanos>
+  <sequence>25</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 21</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.705461Z</date>
+  <millis>1678676649705</millis>
+  <nanos>461000</nanos>
+  <sequence>26</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 89</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.705909900Z</date>
+  <millis>1678676649705</millis>
+  <nanos>909900</nanos>
+  <sequence>27</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 29</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.705909900Z</date>
+  <millis>1678676649705</millis>
+  <nanos>909900</nanos>
+  <sequence>28</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 52</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.706458800Z</date>
+  <millis>1678676649706</millis>
+  <nanos>458800</nanos>
   <sequence>29</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 41</message>
+  <message>Everything is AMAZING! Info Code: 97</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.855928600Z</date>
-  <millis>1678674591855</millis>
-  <nanos>928600</nanos>
+  <date>2023-03-13T03:04:09.707000300Z</date>
+  <millis>1678676649707</millis>
+  <nanos>300</nanos>
   <sequence>30</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
+  <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 75</message>
+  <message>Everything is AMAZING! Info Code: 9</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.855928600Z</date>
-  <millis>1678674591855</millis>
-  <nanos>928600</nanos>
+  <date>2023-03-13T03:04:09.707539900Z</date>
+  <millis>1678676649707</millis>
+  <nanos>539900</nanos>
   <sequence>31</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
+  <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 65</message>
+  <message>Everything is AMAZING! Info Code: 42</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.855928600Z</date>
-  <millis>1678674591855</millis>
-  <nanos>928600</nanos>
+  <date>2023-03-13T03:04:09.707539900Z</date>
+  <millis>1678676649707</millis>
+  <nanos>539900</nanos>
   <sequence>32</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 37</message>
+  <message>Everything is AMAZING! Info Code: 49</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.856929700Z</date>
-  <millis>1678674591856</millis>
-  <nanos>929700</nanos>
+  <date>2023-03-13T03:04:09.708547500Z</date>
+  <millis>1678676649708</millis>
+  <nanos>547500</nanos>
   <sequence>33</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
@@ -410,9 +410,9 @@
   <message>Everything is AMAZING! Info Code: 89</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.856929700Z</date>
-  <millis>1678674591856</millis>
-  <nanos>929700</nanos>
+  <date>2023-03-13T03:04:09.708910Z</date>
+  <millis>1678676649708</millis>
+  <nanos>910000</nanos>
   <sequence>34</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
@@ -422,94 +422,106 @@
   <message>Everything is AMAZING! Info Code: 47</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.856929700Z</date>
-  <millis>1678674591856</millis>
-  <nanos>929700</nanos>
+  <date>2023-03-13T03:04:09.708910Z</date>
+  <millis>1678676649708</millis>
+  <nanos>910000</nanos>
   <sequence>35</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
+  <level>WARNING</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 40</message>
+  <message>Eh. Warning Code: 84</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.856929700Z</date>
-  <millis>1678674591856</millis>
-  <nanos>929700</nanos>
+  <date>2023-03-13T03:04:09.709416Z</date>
+  <millis>1678676649709</millis>
+  <nanos>416000</nanos>
   <sequence>36</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 77</message>
+  <message>Yikes! Error Code: 85</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.857931600Z</date>
-  <millis>1678674591857</millis>
-  <nanos>931600</nanos>
+  <date>2023-03-13T03:04:09.709416Z</date>
+  <millis>1678676649709</millis>
+  <nanos>416000</nanos>
   <sequence>37</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 19</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.857931600Z</date>
-  <millis>1678674591857</millis>
-  <nanos>931600</nanos>
-  <sequence>38</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 62</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.858929100Z</date>
-  <millis>1678674591858</millis>
-  <nanos>929100</nanos>
-  <sequence>39</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 100</message>
+  <message>Yikes! Error Code: 45</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.858929100Z</date>
-  <millis>1678674591858</millis>
-  <nanos>929100</nanos>
+  <date>2023-03-13T03:04:09.709958800Z</date>
+  <millis>1678676649709</millis>
+  <nanos>958800</nanos>
+  <sequence>38</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 12</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.709958800Z</date>
+  <millis>1678676649709</millis>
+  <nanos>958800</nanos>
+  <sequence>39</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 12</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.710493900Z</date>
+  <millis>1678676649710</millis>
+  <nanos>493900</nanos>
   <sequence>40</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 82</message>
+  <message>Everything is AMAZING! Info Code: 89</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.858929100Z</date>
-  <millis>1678674591858</millis>
-  <nanos>929100</nanos>
+  <date>2023-03-13T03:04:09.711018400Z</date>
+  <millis>1678676649711</millis>
+  <nanos>18400</nanos>
   <sequence>41</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 79</message>
+  <message>Everything is AMAZING! Info Code: 47</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.859929200Z</date>
-  <millis>1678674591859</millis>
-  <nanos>929200</nanos>
+  <date>2023-03-13T03:04:09.711544800Z</date>
+  <millis>1678676649711</millis>
+  <nanos>544800</nanos>
   <sequence>42</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 80</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.711544800Z</date>
+  <millis>1678676649711</millis>
+  <nanos>544800</nanos>
+  <sequence>43</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -518,190 +530,46 @@
   <message>Everything is AMAZING! Info Code: 17</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.859929200Z</date>
-  <millis>1678674591859</millis>
-  <nanos>929200</nanos>
-  <sequence>43</sequence>
+  <date>2023-03-13T03:04:09.712075Z</date>
+  <millis>1678676649712</millis>
+  <nanos>75000</nanos>
+  <sequence>44</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 34</message>
+  <message>Everything is AMAZING! Info Code: 94</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.859929200Z</date>
-  <millis>1678674591859</millis>
-  <nanos>929200</nanos>
-  <sequence>44</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 80</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.859929200Z</date>
-  <millis>1678674591859</millis>
-  <nanos>929200</nanos>
+  <date>2023-03-13T03:04:09.712608100Z</date>
+  <millis>1678676649712</millis>
+  <nanos>608100</nanos>
   <sequence>45</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 19</message>
+  <message>Everything is AMAZING! Info Code: 59</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.860929300Z</date>
-  <millis>1678674591860</millis>
-  <nanos>929300</nanos>
+  <date>2023-03-13T03:04:09.713138200Z</date>
+  <millis>1678676649713</millis>
+  <nanos>138200</nanos>
   <sequence>46</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 61</message>
+  <message>Everything is AMAZING! Info Code: 79</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.860929300Z</date>
-  <millis>1678674591860</millis>
-  <nanos>929300</nanos>
+  <date>2023-03-13T03:04:09.713667600Z</date>
+  <millis>1678676649713</millis>
+  <nanos>667600</nanos>
   <sequence>47</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 80</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.860929300Z</date>
-  <millis>1678674591860</millis>
-  <nanos>929300</nanos>
-  <sequence>48</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 93</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.860929300Z</date>
-  <millis>1678674591860</millis>
-  <nanos>929300</nanos>
-  <sequence>49</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 26</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.861929800Z</date>
-  <millis>1678674591861</millis>
-  <nanos>929800</nanos>
-  <sequence>50</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 27</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.861929800Z</date>
-  <millis>1678674591861</millis>
-  <nanos>929800</nanos>
-  <sequence>51</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 41</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.861929800Z</date>
-  <millis>1678674591861</millis>
-  <nanos>929800</nanos>
-  <sequence>52</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 48</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.861929800Z</date>
-  <millis>1678674591861</millis>
-  <nanos>929800</nanos>
-  <sequence>53</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 78</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.862929800Z</date>
-  <millis>1678674591862</millis>
-  <nanos>929800</nanos>
-  <sequence>54</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 9</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.862929800Z</date>
-  <millis>1678674591862</millis>
-  <nanos>929800</nanos>
-  <sequence>55</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Eh. Warning Code: 88</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.862929800Z</date>
-  <millis>1678674591862</millis>
-  <nanos>929800</nanos>
-  <sequence>56</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 75</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.862929800Z</date>
-  <millis>1678674591862</millis>
-  <nanos>929800</nanos>
-  <sequence>57</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 46</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.863929600Z</date>
-  <millis>1678674591863</millis>
-  <nanos>929600</nanos>
-  <sequence>58</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -710,46 +578,34 @@
   <message>Yikes! Error Code: 70</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.863929600Z</date>
-  <millis>1678674591863</millis>
-  <nanos>929600</nanos>
-  <sequence>59</sequence>
+  <date>2023-03-13T03:04:09.713667600Z</date>
+  <millis>1678676649713</millis>
+  <nanos>667600</nanos>
+  <sequence>48</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>WARNING</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Eh. Warning Code: 4</message>
+  <message>Eh. Warning Code: 28</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.863929600Z</date>
-  <millis>1678674591863</millis>
-  <nanos>929600</nanos>
-  <sequence>60</sequence>
+  <date>2023-03-13T03:04:09.714192400Z</date>
+  <millis>1678676649714</millis>
+  <nanos>192400</nanos>
+  <sequence>49</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 99</message>
+  <message>Yikes! Error Code: 90</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.863929600Z</date>
-  <millis>1678674591863</millis>
-  <nanos>929600</nanos>
-  <sequence>61</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 38</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.863929600Z</date>
-  <millis>1678674591863</millis>
-  <nanos>929600</nanos>
-  <sequence>62</sequence>
+  <date>2023-03-13T03:04:09.714720100Z</date>
+  <millis>1678676649714</millis>
+  <nanos>720100</nanos>
+  <sequence>50</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -758,10 +614,10 @@
   <message>Everything is AMAZING! Info Code: 74</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.864929Z</date>
-  <millis>1678674591864</millis>
-  <nanos>929000</nanos>
-  <sequence>63</sequence>
+  <date>2023-03-13T03:04:09.714720100Z</date>
+  <millis>1678676649714</millis>
+  <nanos>720100</nanos>
+  <sequence>51</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -770,106 +626,106 @@
   <message>Everything is AMAZING! Info Code: 9</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.864929Z</date>
-  <millis>1678674591864</millis>
-  <nanos>929000</nanos>
-  <sequence>64</sequence>
+  <date>2023-03-13T03:04:09.715245100Z</date>
+  <millis>1678676649715</millis>
+  <nanos>245100</nanos>
+  <sequence>52</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 88</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.715245100Z</date>
+  <millis>1678676649715</millis>
+  <nanos>245100</nanos>
+  <sequence>53</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 8</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.715770500Z</date>
+  <millis>1678676649715</millis>
+  <nanos>770500</nanos>
+  <sequence>54</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 84</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.715770500Z</date>
+  <millis>1678676649715</millis>
+  <nanos>770500</nanos>
+  <sequence>55</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 22</message>
+  <message>Everything is AMAZING! Info Code: 59</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.864929Z</date>
-  <millis>1678674591864</millis>
-  <nanos>929000</nanos>
-  <sequence>65</sequence>
+  <date>2023-03-13T03:04:09.716297Z</date>
+  <millis>1678676649716</millis>
+  <nanos>297000</nanos>
+  <sequence>56</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>WARNING</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 71</message>
+  <message>Eh. Warning Code: 44</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.864929Z</date>
-  <millis>1678674591864</millis>
-  <nanos>929000</nanos>
-  <sequence>66</sequence>
+  <date>2023-03-13T03:04:09.716297Z</date>
+  <millis>1678676649716</millis>
+  <nanos>297000</nanos>
+  <sequence>57</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 24</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.716826300Z</date>
+  <millis>1678676649716</millis>
+  <nanos>826300</nanos>
+  <sequence>58</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 48</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.717356100Z</date>
+  <millis>1678676649717</millis>
+  <nanos>356100</nanos>
+  <sequence>59</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 25</message>
+  <message>Yikes! Error Code: 85</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.865929200Z</date>
-  <millis>1678674591865</millis>
-  <nanos>929200</nanos>
-  <sequence>67</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 14</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.865929200Z</date>
-  <millis>1678674591865</millis>
-  <nanos>929200</nanos>
-  <sequence>68</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 3</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.865929200Z</date>
-  <millis>1678674591865</millis>
-  <nanos>929200</nanos>
-  <sequence>69</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 18</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.865929200Z</date>
-  <millis>1678674591865</millis>
-  <nanos>929200</nanos>
-  <sequence>70</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 93</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.865929200Z</date>
-  <millis>1678674591865</millis>
-  <nanos>929200</nanos>
-  <sequence>71</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 33</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.866930200Z</date>
-  <millis>1678674591866</millis>
-  <nanos>930200</nanos>
-  <sequence>72</sequence>
+  <date>2023-03-13T03:04:09.717356100Z</date>
+  <millis>1678676649717</millis>
+  <nanos>356100</nanos>
+  <sequence>60</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -878,130 +734,58 @@
   <message>Yikes! Error Code: 45</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.866930200Z</date>
-  <millis>1678674591866</millis>
-  <nanos>930200</nanos>
-  <sequence>73</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 73</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.866930200Z</date>
-  <millis>1678674591866</millis>
-  <nanos>930200</nanos>
-  <sequence>74</sequence>
+  <date>2023-03-13T03:04:09.717888900Z</date>
+  <millis>1678676649717</millis>
+  <nanos>888900</nanos>
+  <sequence>61</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>WARNING</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Eh. Warning Code: 32</message>
+  <message>Eh. Warning Code: 28</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.867930400Z</date>
-  <millis>1678674591867</millis>
-  <nanos>930400</nanos>
-  <sequence>75</sequence>
+  <date>2023-03-13T03:04:09.718414200Z</date>
+  <millis>1678676649718</millis>
+  <nanos>414200</nanos>
+  <sequence>62</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 83</message>
+  <message>Everything is AMAZING! Info Code: 58</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.867930400Z</date>
-  <millis>1678674591867</millis>
-  <nanos>930400</nanos>
-  <sequence>76</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 11</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.867930400Z</date>
-  <millis>1678674591867</millis>
-  <nanos>930400</nanos>
-  <sequence>77</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 71</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.867930400Z</date>
-  <millis>1678674591867</millis>
-  <nanos>930400</nanos>
-  <sequence>78</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 57</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.868929500Z</date>
-  <millis>1678674591868</millis>
-  <nanos>929500</nanos>
-  <sequence>79</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 1</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.868929500Z</date>
-  <millis>1678674591868</millis>
-  <nanos>929500</nanos>
-  <sequence>80</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 34</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.868929500Z</date>
-  <millis>1678674591868</millis>
-  <nanos>929500</nanos>
-  <sequence>81</sequence>
+  <date>2023-03-13T03:04:09.718414200Z</date>
+  <millis>1678676649718</millis>
+  <nanos>414200</nanos>
+  <sequence>63</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 50</message>
+  <message>Yikes! Error Code: 5</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.868929500Z</date>
-  <millis>1678674591868</millis>
-  <nanos>929500</nanos>
-  <sequence>82</sequence>
+  <date>2023-03-13T03:04:09.718937900Z</date>
+  <millis>1678676649718</millis>
+  <nanos>937900</nanos>
+  <sequence>64</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>WARNING</level>
+  <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Eh. Warning Code: 16</message>
+  <message>Everything is AMAZING! Info Code: 29</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.869929700Z</date>
-  <millis>1678674591869</millis>
-  <nanos>929700</nanos>
-  <sequence>83</sequence>
+  <date>2023-03-13T03:04:09.718937900Z</date>
+  <millis>1678676649718</millis>
+  <nanos>937900</nanos>
+  <sequence>65</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -1010,10 +794,70 @@
   <message>Yikes! Error Code: 80</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.869929700Z</date>
-  <millis>1678674591869</millis>
-  <nanos>929700</nanos>
-  <sequence>84</sequence>
+  <date>2023-03-13T03:04:09.719463600Z</date>
+  <millis>1678676649719</millis>
+  <nanos>463600</nanos>
+  <sequence>66</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 17</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.719463600Z</date>
+  <millis>1678676649719</millis>
+  <nanos>463600</nanos>
+  <sequence>67</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 19</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.719985Z</date>
+  <millis>1678676649719</millis>
+  <nanos>985000</nanos>
+  <sequence>68</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 100</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.720071100Z</date>
+  <millis>1678676649720</millis>
+  <nanos>71100</nanos>
+  <sequence>69</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 79</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.720575Z</date>
+  <millis>1678676649720</millis>
+  <nanos>575000</nanos>
+  <sequence>70</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 7</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.721101700Z</date>
+  <millis>1678676649721</millis>
+  <nanos>101700</nanos>
+  <sequence>71</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -1022,22 +866,154 @@
   <message>Everything is AMAZING! Info Code: 18</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.869929700Z</date>
-  <millis>1678674591869</millis>
-  <nanos>929700</nanos>
-  <sequence>85</sequence>
+  <date>2023-03-13T03:04:09.721101700Z</date>
+  <millis>1678676649721</millis>
+  <nanos>101700</nanos>
+  <sequence>72</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 47</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.721629Z</date>
+  <millis>1678676649721</millis>
+  <nanos>629000</nanos>
+  <sequence>73</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 28</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.722168300Z</date>
+  <millis>1678676649722</millis>
+  <nanos>168300</nanos>
+  <sequence>74</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 21</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.722168300Z</date>
+  <millis>1678676649722</millis>
+  <nanos>168300</nanos>
+  <sequence>75</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Yikes! Error Code: 15</message>
+  <message>Yikes! Error Code: 90</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.869929700Z</date>
-  <millis>1678674591869</millis>
-  <nanos>929700</nanos>
-  <sequence>86</sequence>
+  <date>2023-03-13T03:04:09.722704800Z</date>
+  <millis>1678676649722</millis>
+  <nanos>704800</nanos>
+  <sequence>76</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 100</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.723245300Z</date>
+  <millis>1678676649723</millis>
+  <nanos>245300</nanos>
+  <sequence>77</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 18</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.723245300Z</date>
+  <millis>1678676649723</millis>
+  <nanos>245300</nanos>
+  <sequence>78</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 5</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.723776200Z</date>
+  <millis>1678676649723</millis>
+  <nanos>776200</nanos>
+  <sequence>79</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 48</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.724302400Z</date>
+  <millis>1678676649724</millis>
+  <nanos>302400</nanos>
+  <sequence>80</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 19</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.724302400Z</date>
+  <millis>1678676649724</millis>
+  <nanos>302400</nanos>
+  <sequence>81</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 72</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.724833900Z</date>
+  <millis>1678676649724</millis>
+  <nanos>833900</nanos>
+  <sequence>82</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 49</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.724833900Z</date>
+  <millis>1678676649724</millis>
+  <nanos>833900</nanos>
+  <sequence>83</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 71</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.725359800Z</date>
+  <millis>1678676649725</millis>
+  <nanos>359800</nanos>
+  <sequence>84</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -1046,130 +1022,70 @@
   <message>Yikes! Error Code: 45</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.869929700Z</date>
-  <millis>1678674591869</millis>
-  <nanos>929700</nanos>
-  <sequence>87</sequence>
+  <date>2023-03-13T03:04:09.725890500Z</date>
+  <millis>1678676649725</millis>
+  <nanos>890500</nanos>
+  <sequence>85</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 59</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.725890500Z</date>
+  <millis>1678676649725</millis>
+  <nanos>890500</nanos>
+  <sequence>86</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>WARNING</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Eh. Warning Code: 32</message>
+  <message>Eh. Warning Code: 48</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.870929Z</date>
-  <millis>1678674591870</millis>
-  <nanos>929000</nanos>
+  <date>2023-03-13T03:04:09.726425500Z</date>
+  <millis>1678676649726</millis>
+  <nanos>425500</nanos>
+  <sequence>87</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 49</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.726966Z</date>
+  <millis>1678676649726</millis>
+  <nanos>966000</nanos>
   <sequence>88</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 3</message>
+  <message>Everything is AMAZING! Info Code: 2</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.870929Z</date>
-  <millis>1678674591870</millis>
-  <nanos>929000</nanos>
+  <date>2023-03-13T03:04:09.726966Z</date>
+  <millis>1678676649726</millis>
+  <nanos>966000</nanos>
   <sequence>89</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 69</message>
+  <message>Yikes! Error Code: 45</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.870929Z</date>
-  <millis>1678674591870</millis>
-  <nanos>929000</nanos>
+  <date>2023-03-13T03:04:09.727503100Z</date>
+  <millis>1678676649727</millis>
+  <nanos>503100</nanos>
   <sequence>90</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 61</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.870929Z</date>
-  <millis>1678674591870</millis>
-  <nanos>929000</nanos>
-  <sequence>91</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 54</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.871929Z</date>
-  <millis>1678674591871</millis>
-  <nanos>929000</nanos>
-  <sequence>92</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 50</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.871929Z</date>
-  <millis>1678674591871</millis>
-  <nanos>929000</nanos>
-  <sequence>93</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 26</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.871929Z</date>
-  <millis>1678674591871</millis>
-  <nanos>929000</nanos>
-  <sequence>94</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 55</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.871929Z</date>
-  <millis>1678674591871</millis>
-  <nanos>929000</nanos>
-  <sequence>95</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 55</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.871929Z</date>
-  <millis>1678674591871</millis>
-  <nanos>929000</nanos>
-  <sequence>96</sequence>
-  <logger>dev.rayraydev.LoggingExample</logger>
-  <level>SEVERE</level>
-  <class>dev.rayraydev.LoggingExample</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Yikes! Error Code: 35</message>
-</record>
-<record>
-  <date>2023-03-13T02:29:51.872929800Z</date>
-  <millis>1678674591872</millis>
-  <nanos>929800</nanos>
-  <sequence>97</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
@@ -1178,27 +1094,111 @@
   <message>Yikes! Error Code: 75</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.872929800Z</date>
-  <millis>1678674591872</millis>
-  <nanos>929800</nanos>
+  <date>2023-03-13T03:04:09.728028600Z</date>
+  <millis>1678676649728</millis>
+  <nanos>28600</nanos>
+  <sequence>91</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>WARNING</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Eh. Warning Code: 12</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.728028600Z</date>
+  <millis>1678676649728</millis>
+  <nanos>28600</nanos>
+  <sequence>92</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 42</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.728553300Z</date>
+  <millis>1678676649728</millis>
+  <nanos>553300</nanos>
+  <sequence>93</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 55</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.729080900Z</date>
+  <millis>1678676649729</millis>
+  <nanos>80900</nanos>
+  <sequence>94</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 54</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.729080900Z</date>
+  <millis>1678676649729</millis>
+  <nanos>80900</nanos>
+  <sequence>95</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 27</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.729080900Z</date>
+  <millis>1678676649729</millis>
+  <nanos>80900</nanos>
+  <sequence>96</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>INFO</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Everything is AMAZING! Info Code: 59</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.729080900Z</date>
+  <millis>1678676649729</millis>
+  <nanos>80900</nanos>
+  <sequence>97</sequence>
+  <logger>dev.rayraydev.LoggingExample</logger>
+  <level>SEVERE</level>
+  <class>dev.rayraydev.LoggingExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Yikes! Error Code: 85</message>
+</record>
+<record>
+  <date>2023-03-13T03:04:09.730086800Z</date>
+  <millis>1678676649730</millis>
+  <nanos>86800</nanos>
   <sequence>98</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
   <level>INFO</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 6</message>
+  <message>Everything is AMAZING! Info Code: 22</message>
 </record>
 <record>
-  <date>2023-03-13T02:29:51.872929800Z</date>
-  <millis>1678674591872</millis>
-  <nanos>929800</nanos>
+  <date>2023-03-13T03:04:09.730086800Z</date>
+  <millis>1678676649730</millis>
+  <nanos>86800</nanos>
   <sequence>99</sequence>
   <logger>dev.rayraydev.LoggingExample</logger>
-  <level>INFO</level>
+  <level>SEVERE</level>
   <class>dev.rayraydev.LoggingExample</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Everything is AMAZING! Info Code: 57</message>
+  <message>Yikes! Error Code: 100</message>
 </record>
 </log>

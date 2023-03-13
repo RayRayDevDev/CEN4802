@@ -22,6 +22,9 @@ public class LoggingExample {
 
         for (int i = 0; i < 100; i++) {
             int randomNumber = rand.nextInt((max - min) + 1) + min;
+            do {
+                randomNumber = rand.nextInt((max - min) + 1) + min;
+            } while (String.valueOf(randomNumber).contains("3") || String.valueOf(randomNumber).contains("6")); //I didn't want any 3s or 6s in my output.
             if (randomNumber % 5 == 0) {
                 LOGGER.log(Level.SEVERE, "Yikes! Error Code: " + randomNumber);
             } else if (randomNumber % 4 == 0) {
